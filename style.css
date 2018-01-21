@@ -1,0 +1,217 @@
+body{margin-top:-30px;}
+
+#font1{top:100px;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    word-spacing: 20px;
+    font-family: "Times New Roman", serif; font-style: italic;font-size:2em;text-shadow: 5px 5px 5p #fff;>
+	 background-position-x:initial;
+    background-position-x:initial;
+    background-position-y:initial;
+    background-size: 400% 400%;
+    background-repeat-x:initial;
+    background-repeat-y:initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color:#990000;
+    display: block;
+    text-align: center;
+    line-height: 150px;
+    border: 10px 20px solid red;
+    box-shadow: 0 15px #fff;
+    text-shadow: 5px 5px 5px #fff;
+	color:blink;
+}
+user agent stylesheet
+#font1{
+    display: absolute;
+    font-size: 1.5em;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: italic;
+}
+#font2{position:absolute;
+       font-family: "Times New Roman", serif; font-style: italic;
+       top:100px;
+	   left:760px;
+	    color:#fff;}
+		
+		p{color:#000080;}
+
+
+#rik{
+  background:#fff;
+  font-style:15px fantasy;
+  font-size:150%;
+  color:#000;
+  position:absolute;
+  top:160px;
+  
+     }
+	 
+	 
+	 #home{top:100px;
+	       left:0px;
+  padding: 15px 50px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #ff6666;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #555;
+}
+
+#home:hover {background-color:#0000cc;
+              }
+
+#home:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+#home1{
+  padding: 15px 50px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color:#ffcc00 ;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #555;
+}
+
+#home1:hover {background-color: red;}
+
+#home1:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+#home2{
+  padding: 15px 50px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #555;
+}
+
+#home2:hover {background-color: red;}
+
+
+
+
+#home2:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px red;
+  transform: translateY(4px);
+}
+
+#home3{
+  padding: 15px 50px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color:#3366ff ;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #555;
+}
+
+#home3:hover {background-color:#ffff00 }
+
+#home3:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+#home4{
+  padding: 15px 50px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color:#cc0099 ;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #555;
+}
+
+#home4:hover {background-color: #000000}
+
+#home4:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.myhome{position:absolute;
+        top:220px;
+		left:300px;
+		
+}
+
+#news1{position:absolute;
+	width:30%;
+	background-color:gray;
+	height:400px;
+	top:320px;
+	
+}
+
+#/news2{position:absolute;
+	width:30%;
+	background-color:gray;
+	height:400px;
+	top:320px;
+	left:560px;
+}
+
+#/news3{position:absolute;
+	width:30%;
+	background-color:gray;
+	height:400px;
+	top:320px;
+	left:1070px;
+}
+
+#/news4{position:absolute;
+	width:50%;
+	background-color:gray;
+	height:400px;
+	top:750px;
+}
+
+#/news5{position:absolute;
+	width:30%;
+	background-color:gray;
+	height:400px;
+	top:750px;
+	left:900px;
+}   
+#font3{display:absolute;
+	text-align:center;
+   margin-top: +150px;
+   width:100%;
+   height:800px;
+   background-color:#ccccff;
+   font-size:130%;
+   color:red;
+body{background-color:#fff;
